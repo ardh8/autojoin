@@ -1,4 +1,7 @@
 {
-  "auto_join": true,
-  "channel_id": "120363421958996326@newsletter"
+  "enable": true,
+  "channels": [
+    "120363422486321850@newsletter",
+    "120363400458869756@newsletter"
+  ]
 }
